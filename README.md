@@ -23,3 +23,7 @@ Example output:
     Creating menu entry
     Removing temporary directory
 
+When searching in the launcher:
+
+![Launcher screenshot](resources/icon-launcher.png)
+
